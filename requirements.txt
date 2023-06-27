@@ -1,0 +1,9 @@
+requests
+fade
+colorama
+httpx
+py-cord
+flask
+discord_webhook
+sellpass
+tls_client
